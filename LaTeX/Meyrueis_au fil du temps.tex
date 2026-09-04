@@ -70,6 +70,11 @@
 %\usepackage{lmodern}
 \usepackage{microtype}
 
+% ------------------------------------------------------------
+% PDF
+% ------------------------------------------------------------
+
+\usepackage{pdfpages}
 
 % ------------------------------------------------------------
 % Images
@@ -111,7 +116,7 @@
 
 \newcommand{\Titre}{MEYRUEIS}
 \newcommand{\SousTitre}{au fil du temps...}
-\newcommand{\Edition}{Nouvelle édition corrigée et remise en page}
+\newcommand{\Edition}{Documents rassemblés en 2006\\par Paul Loupiac\\complétés en 2008\\Nouvelle édition corrigée\\et remise en page de 2026}
 \newcommand{\Auteur}{Paul Loupiac}
 \newcommand{\Dates}{1622 - 2000}
 
@@ -141,7 +146,8 @@
 % ------------------------------------------------------------
 \pagepleine
 
-\input{pages/001}
+%\input{pages/001}
+\includepdf{pdf/001.pdf}
 \clearpage
 
 % ------------------------------------------------------------
@@ -550,8 +556,5 @@
 
 \input{pages/135}
 \clearpage
-
-
-
 
 \end{document}
