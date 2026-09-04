@@ -1,0 +1,84 @@
+% ============================================================
+% Meyrueis au fil du temps — couverture
+% ============================================================
+
+\begin{tikzpicture}[remember picture,overlay]
+
+  % ----------------------------------------------------------
+  % Fond
+  % ----------------------------------------------------------
+
+  \node[
+    anchor=south west,
+    inner sep=0pt
+  ]
+  at (current page.south west)
+  {\includegraphics[
+    width=\paperwidth,
+    height=\paperheight
+  ]{imgs/001.png}};
+
+
+  % ----------------------------------------------------------
+  % Auteur
+  % ----------------------------------------------------------
+
+  \node[
+    anchor=center,
+    font=\CouvertureFont\fontsize{17}{20}\selectfont
+  ]
+  at ([yshift=-0.05\paperheight]current page.north)
+  {\Auteur};
+
+
+  % ----------------------------------------------------------
+  % Titre
+  % ----------------------------------------------------------
+
+  \node[
+    anchor=center,
+    font=\CouvertureFont\fontsize{39}{42}\selectfont
+  ]
+  at ([yshift=-0.1875\paperheight]current page.north)
+  {\Titre};
+
+
+  % ----------------------------------------------------------
+  % Traits horizontaux
+  % ----------------------------------------------------------
+
+  \draw[line width=0.35pt]
+    ([xshift=0cm,yshift=-0.202\paperheight]current page.north west)
+    --
+    ([xshift=0.1833\paperwidth,yshift=-0.202\paperheight]current page.north west);
+
+  \draw[line width=0.35pt]
+    ([xshift=0.8167\paperwidth,yshift=-0.202\paperheight]current page.north west)
+    --
+    ([xshift=\paperwidth,yshift=-0.202\paperheight]current page.north west);
+
+
+  % ----------------------------------------------------------
+  % Sous-titre
+  % ----------------------------------------------------------
+
+  \node[
+    anchor=center,
+    font=\CouvertureFont\fontsize{20}{23}\selectfont
+  ]
+  at ([yshift=-0.2475\paperheight]current page.north)
+  {\SousTitre};
+
+
+  % ----------------------------------------------------------
+  % Dates
+  % ----------------------------------------------------------
+
+  \node[
+    anchor=center,
+    font=\CouvertureFont\fontsize{16}{19}\selectfont
+  ]
+  at ([yshift=0.0375\paperheight]current page.south)
+  {\Dates};
+
+\end{tikzpicture}

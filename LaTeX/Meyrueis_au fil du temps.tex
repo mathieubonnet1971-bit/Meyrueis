@@ -1,0 +1,557 @@
+% ============================================================
+% MEYRUEIS — au fil du temps
+% Nouvelle édition corrigée et remise en page
+%
+% Document principal
+% ============================================================
+
+\documentclass[a4paper,11pt]{article}
+
+% ------------------------------------------------------------
+% Langue et typographie
+% ------------------------------------------------------------
+
+\usepackage[french]{babel}
+\usepackage{fontspec}
+\setmainfont{Latin Modern Roman}
+
+% ------------------------------------------------------------
+% Mise en page par défaut
+% ------------------------------------------------------------
+
+\usepackage[
+    a4paper,
+    top=2.00cm,
+    bottom=2.00cm,
+    left=1.70cm,
+    right=1.70cm
+]{geometry}
+
+
+% ------------------------------------------------------------
+% Mise en page des pages
+% ------------------------------------------------------------
+
+% Page avec marges
+\newcommand{\pagenormale}{%
+    \newgeometry{
+        top=2.00cm,
+        bottom=2.00cm,
+        left=1.70cm,
+        right=1.70cm
+    }%
+}
+
+% Page pleine
+\newcommand{\pagepleine}{%
+    \newgeometry{
+        top=0cm,
+        bottom=0cm,
+        left=0cm,
+        right=0cm
+    }%
+}
+
+% ------------------------------------------------------------
+% Packages
+% ------------------------------------------------------------
+
+\usepackage{tikz}
+\usepackage{multicol}
+\usepackage{titlesec}
+\usepackage{array}
+\usepackage{tabularx}
+\usepackage{wrapfig}
+
+% ------------------------------------------------------------
+% Typographie
+% ------------------------------------------------------------
+
+%\usepackage{lmodern}
+\usepackage{microtype}
+
+
+% ------------------------------------------------------------
+% Images
+% ------------------------------------------------------------
+
+\usepackage{graphicx}
+
+% ------------------------------------------------------------
+% Mise en forme
+% ------------------------------------------------------------
+
+\usepackage{enumitem}
+\usepackage{xcolor}
+\usepackage{tcolorbox}
+
+% Colonnes personnalisées pour les tableaux
+\newcolumntype{P}[1]{>{\raggedright\arraybackslash}p{#1}}
+\newcolumntype{Y}{>{\raggedright\arraybackslash}X}
+
+\newcommand{\citationblock}[1]{%
+  \begin{minipage}{0.91\textwidth}
+  \itshape #1
+  \end{minipage}
+}
+
+% ------------------------------------------------------------
+% Réglages généraux
+% ------------------------------------------------------------
+
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{0.45em}
+\setlength{\emergencystretch}{1em}
+
+% ------------------------------------------------------------
+% Informations du document
+% ------------------------------------------------------------
+
+\newfontfamily\CouvertureFont{Noto Serif}
+
+\newcommand{\Titre}{MEYRUEIS}
+\newcommand{\SousTitre}{au fil du temps...}
+\newcommand{\Edition}{Nouvelle édition corrigée et remise en page}
+\newcommand{\Auteur}{Paul Loupiac}
+\newcommand{\Dates}{1622 - 2000}
+
+% ------------------------------------------------------------
+% Pagination
+% ------------------------------------------------------------
+
+\pagestyle{plain}
+
+% ============================================================
+% DOCUMENT
+% ============================================================
+
+\begin{document}
+
+% ------------------------------------------------------------
+% Pages préliminaires
+% ------------------------------------------------------------
+
+\pagenumbering{gobble}
+
+\pagenumbering{arabic}
+
+
+% ------------------------------------------------------------
+% Première de couverture : A4 pleine page
+% ------------------------------------------------------------
+\pagepleine
+
+\input{pages/001}
+\clearpage
+
+% ------------------------------------------------------------
+% Retour au format du livre : 15 × 20 cm
+% ------------------------------------------------------------
+\pagenormale
+
+\input{pages/002}
+\clearpage
+
+\input{pages/003}
+\clearpage
+
+\input{pages/004}
+\clearpage
+
+% La première page numérotée du document original est la page 1.
+\setcounter{page}{1}
+
+\input{pages/005}
+\clearpage
+
+\input{pages/006}
+\clearpage
+
+\input{pages/007}
+\clearpage
+
+\input{pages/008}
+\clearpage
+
+\input{pages/009}
+\clearpage
+
+\input{pages/010}
+\clearpage
+
+\input{pages/011}
+\clearpage
+
+\input{pages/012}
+\clearpage
+
+\input{pages/013}
+\clearpage
+
+\input{pages/014}
+\clearpage
+
+\input{pages/015}
+\clearpage
+
+\input{pages/016}
+\clearpage
+
+\input{pages/017}
+\clearpage
+
+\input{pages/018}
+\clearpage
+
+\input{pages/019}
+\clearpage
+
+\input{pages/020}
+\clearpage
+
+\input{pages/021}
+\clearpage
+
+\input{pages/022}
+\clearpage
+
+\input{pages/023}
+\clearpage
+
+\input{pages/024}
+\clearpage
+
+\input{pages/025}
+\clearpage
+
+\input{pages/026}
+\clearpage
+
+\input{pages/027}
+\clearpage
+
+\input{pages/028}
+\clearpage
+
+\input{pages/029}
+\clearpage
+
+\input{pages/030}
+\clearpage
+
+\input{pages/031}
+\clearpage
+
+\input{pages/032}
+\clearpage
+
+\input{pages/033}
+\clearpage
+
+\input{pages/034}
+\clearpage
+
+\input{pages/035}
+\clearpage
+
+\input{pages/036}
+\clearpage
+
+\input{pages/037}
+\clearpage
+
+\input{pages/038}
+\clearpage
+
+\input{pages/039}
+\clearpage
+
+\input{pages/040}
+\clearpage
+
+\input{pages/041}
+\clearpage
+
+\input{pages/042}
+\clearpage
+
+\input{pages/043}
+\clearpage
+
+\input{pages/044}
+\clearpage
+
+\input{pages/045}
+\clearpage
+
+\input{pages/046}
+\clearpage
+
+\input{pages/047}
+\clearpage
+
+\input{pages/048}
+\clearpage
+
+\input{pages/049}
+\clearpage
+
+\input{pages/050}
+\clearpage
+
+\input{pages/051}
+\clearpage
+
+\input{pages/052}
+\clearpage
+
+\input{pages/053}
+\clearpage
+
+\input{pages/054}
+\clearpage
+
+\input{pages/055}
+\clearpage
+
+\input{pages/056}
+\clearpage
+
+\input{pages/057}
+\clearpage
+
+\input{pages/058}
+\clearpage
+
+\input{pages/059}
+\clearpage
+
+\input{pages/060}
+\clearpage
+
+\input{pages/061}
+\clearpage
+
+\input{pages/062}
+\clearpage
+
+\input{pages/063}
+\clearpage
+
+\input{pages/064}
+\clearpage
+
+\input{pages/065}
+\clearpage
+
+\input{pages/066}
+\clearpage
+
+\input{pages/067}
+\clearpage
+
+\input{pages/068}
+\clearpage
+
+\input{pages/069}
+\clearpage
+
+\input{pages/070}
+\clearpage
+
+\input{pages/071}
+\clearpage
+
+\input{pages/072}
+\clearpage
+
+\input{pages/073}
+\clearpage
+
+\input{pages/074}
+\clearpage
+
+\input{pages/075}
+\clearpage
+
+\input{pages/076}
+\clearpage
+
+\input{pages/077}
+\clearpage
+
+\input{pages/078}
+\clearpage
+
+\input{pages/079}
+\clearpage
+
+\input{pages/080}
+\clearpage
+
+\input{pages/081}
+\clearpage
+
+\input{pages/082}
+\clearpage
+
+\input{pages/083}
+\clearpage
+
+\input{pages/084}
+\clearpage
+
+\input{pages/085}
+\clearpage
+
+\input{pages/086}
+\clearpage
+
+\input{pages/087}
+\clearpage
+
+\input{pages/088}
+\clearpage
+
+\input{pages/089}
+\clearpage
+
+\input{pages/090}
+\clearpage
+
+\input{pages/091}
+\clearpage
+
+\input{pages/092}
+\clearpage
+
+\input{pages/093}
+\clearpage
+
+\input{pages/094}
+\clearpage
+
+\input{pages/095}
+\clearpage
+
+\input{pages/096}
+\clearpage
+
+\input{pages/097}
+\clearpage
+
+\input{pages/098}
+\clearpage
+
+\input{pages/099}
+\clearpage
+
+\input{pages/100}
+\clearpage
+
+\input{pages/102}
+\clearpage
+
+\input{pages/103}
+\clearpage
+
+\input{pages/104}
+\clearpage
+
+\input{pages/105}
+\clearpage
+
+\input{pages/106}
+\clearpage
+
+\input{pages/107}
+\clearpage
+
+\input{pages/108}
+\clearpage
+
+\input{pages/109}
+\clearpage
+
+\input{pages/110}
+\clearpage
+
+\input{pages/111}
+\clearpage
+
+\input{pages/112}
+\clearpage
+
+\input{pages/113}
+\clearpage
+
+\input{pages/114}
+\clearpage
+
+\input{pages/115}
+\clearpage
+
+\input{pages/116}
+\clearpage
+
+\input{pages/117}
+\clearpage
+
+\input{pages/118}
+\clearpage
+
+\input{pages/119}
+\clearpage
+
+\input{pages/120}
+\clearpage
+
+\input{pages/121}
+\clearpage
+
+\input{pages/122}
+\clearpage
+
+\input{pages/123}
+\clearpage
+
+\input{pages/124}
+\clearpage
+
+\input{pages/125}
+\clearpage
+
+\input{pages/126}
+\clearpage
+
+\input{pages/127}
+\clearpage
+
+\input{pages/128}
+\clearpage
+
+\input{pages/129}
+\clearpage
+
+\input{pages/130}
+\clearpage
+
+\input{pages/131}
+\clearpage
+
+\input{pages/132}
+\clearpage
+
+\input{pages/133}
+\clearpage
+
+\input{pages/134}
+\clearpage
+
+\input{pages/135}
+\clearpage
+
+
+
+
+\end{document}

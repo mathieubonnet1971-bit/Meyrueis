@@ -1,0 +1,34 @@
+% Page 002 — Meyrueis au fil du temps
+% Page de titre intérieure
+% Tous les textes sont modifiables ci-dessous.
+
+
+\begin{tikzpicture}[remember picture,overlay]
+
+  % Titre principal
+  \node[
+    anchor=center,
+    font=\bfseries\fontsize{31}{34}\selectfont
+  ] at ([yshift=-7.7cm]current page.north)
+  {\Titre};
+
+  % Sous-titre
+  \node[
+    anchor=center,
+    font=\bfseries\fontsize{22}{25}\selectfont
+  ] at ([yshift=-10.45cm]current page.north)
+  {\SousTitre};
+
+  % Mention d'édition
+  \node[
+    anchor=east,
+    align=center,
+    font=\bfseries\fontsize{11}{13}\selectfont
+  ] at ([xshift=-2.2cm,yshift=2.15cm]current page.south east)
+  {\Edition};
+
+  % Numéro de page :
+  % volontairement absent : cette page n'est pas numérotée.
+
+\end{tikzpicture}
+
