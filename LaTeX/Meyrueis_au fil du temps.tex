@@ -62,6 +62,7 @@
 \usepackage{array}
 \usepackage{tabularx}
 \usepackage{wrapfig}
+\usepackage{xspace} 
 
 % ------------------------------------------------------------
 % Typographie
@@ -95,9 +96,11 @@
 \newcolumntype{Y}{>{\raggedright\arraybackslash}X}
 
 \newcommand{\citationblock}[1]{%
-  \begin{minipage}{0.91\textwidth}
-  \itshape #1
-  \end{minipage}
+    \begin{center}
+      \begin{minipage}{0.89\textwidth}
+      \itshape #1
+      \end{minipage}
+    \end {center}
 }
 
 % ------------------------------------------------------------
