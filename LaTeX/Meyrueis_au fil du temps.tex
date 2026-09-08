@@ -3,6 +3,9 @@
 % Nouvelle édition corrigée et remise en page
 %
 % Document principal
+%
+% Document d'origine
+% https://www.calameo.com/read/00500001099e542e47fc5
 % ============================================================
 
 \documentclass[a4paper,11pt]{article}
@@ -76,7 +79,8 @@
 \usepackage{array}
 \usepackage{tabularx}
 \usepackage{wrapfig}
-\usepackage{xspace} 
+\usepackage{xspace}
+\usepackage{etoolbox}
 
 % ------------------------------------------------------------
 % Typographie
@@ -144,7 +148,9 @@
 \pagestyle{plain}
 
 \newcommand{\sectiondate}[2]{%
-    \section[#1 — #2]{#1}
+    \ifstrempty{#2}%
+        {\section{#1}}%
+        {\section[#1 --- #2]{#1}}%
 }
 
 % ============================================================
