@@ -52,6 +52,20 @@
     }%
 }
 
+% Papier quadrillé type scolaire ancien
+\newcommand{\papierquadrille}{%
+  \begin{tikzpicture}[remember picture,overlay]
+    \draw[
+        gray!25,
+        line width=0.25pt,
+        step=5mm
+    ]
+      (current page.south west)
+      grid
+      (current page.north east);
+  \end{tikzpicture}%
+}
+
 % ------------------------------------------------------------
 % Packages
 % ------------------------------------------------------------
