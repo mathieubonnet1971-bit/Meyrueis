@@ -30,6 +30,23 @@
     right=1.70cm
 ]{geometry}
 
+% ------------------------------------------------------------
+% TOC
+% ------------------------------------------------------------
+
+\usepackage{tocloft}
+\usepackage[hidelinks]{hyperref}
+
+% Points de conduite sur toutes les lignes
+\renewcommand{\cftsecleader}{\cftdotfill{\cftdotsep}}
+\renewcommand{\cftsubsecleader}{\cftdotfill{\cftdotsep}}
+
+% Espacement des points
+\renewcommand{\cftdotsep}{1}
+
+% Largeur réservée aux numéros
+\setlength{\cftsecnumwidth}{3em}
+\setlength{\cftsubsecnumwidth}{3.5em}
 
 % ------------------------------------------------------------
 % Mise en page des pages
