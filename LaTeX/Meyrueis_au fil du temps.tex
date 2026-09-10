@@ -8,7 +8,7 @@
 % https://www.calameo.com/read/00500001099e542e47fc5
 % ============================================================
 
-\documentclass[a4paper,11pt]{article}
+\documentclass[a4paper,11pt,twoside]{article}
 
 % ------------------------------------------------------------
 % Langue et typographie
@@ -205,27 +205,39 @@
 
 \fancyhf{}
 
-\fancyhead[L]{\nouppercase{\leftmark}}
-\fancyhead[R]{\nouppercase{\rightmark}}
+% Pages impaires
+\fancyhead[LO]{%
+  \parbox[b]{0.47\textwidth}{\raggedright\small
+    \nouppercase{\leftmark}}%
+}
+\fancyhead[RO]{%
+  \parbox[b]{0.47\textwidth}{\raggedleft\small
+    \nouppercase{\rightmark}}%
+}
+\fancyfoot[LO]{Paul Loupiac}
+\fancyfoot[RO]{\thepage}
 
-\fancyfoot[L]{Paul Loupiac}
-\fancyfoot[R]{\thepage}
+% Pages paires
+\fancyhead[LE]{%
+  \parbox[b]{0.47\textwidth}{\raggedright\small
+    \nouppercase{\rightmark}}%
+}
+\fancyhead[RE]{%
+  \parbox[b]{0.47\textwidth}{\raggedleft\small
+    \nouppercase{\leftmark}}%
+}
+\fancyfoot[LE]{\thepage}
+\fancyfoot[RE]{Paul Loupiac}
 
-% Lignes de séparation
-\renewcommand{\headrulewidth}{0.25pt}
-\renewcommand{\footrulewidth}{0.25pt}
-
-% Couleur des lignes
+% Liserés
 \renewcommand{\headrule}{%
-  {\color{gray!55}\hrule width\headwidth height\headrulewidth}%
+  {\color{gray!55}\hrule width\headwidth height 0.25pt}%
 }
 \renewcommand{\footrule}{%
-  {\color{gray!55}\hrule width\headwidth height\footrulewidth}%
+  {\color{gray!55}\hrule width\headwidth height 0.25pt}%
 }
 
 \setlength{\headheight}{14pt}
-
-
 
 % ============================================================
 % DOCUMENT
@@ -259,6 +271,7 @@
 \input{pages/001-première_de_couverture}
 %\includepdf{pdf/001.pdf}
 \clearpage
+\newpage
 
 % ------------------------------------------------------------
 % Retour au format du livre : 15 × 20 cm
