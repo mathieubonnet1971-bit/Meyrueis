@@ -6,30 +6,74 @@
 
 \begin{tikzpicture}[remember picture,overlay]
 
-  % Titre principal
+  % ------------------------------------------------
+  % Titre principal — hors du cadre
+  % ------------------------------------------------
   \node[
     anchor=center,
     font=\bfseries\fontsize{31}{34}\selectfont
   ] at ([yshift=-7.7cm]current page.north)
   {\Titre};
 
-  % Sous-titre
+  % ------------------------------------------------
+  % Sous-titre — hors du cadre
+  % ------------------------------------------------
   \node[
     anchor=center,
     font=\bfseries\fontsize{22}{25}\selectfont
   ] at ([yshift=-10.45cm]current page.north)
   {\SousTitre};
 
-  % Mention d'édition
+  % ------------------------------------------------
+  % Cartouche inférieur
+  % ------------------------------------------------
   \node[
-    anchor=east,
-    align=center,
-    font=\bfseries\fontsize{11}{13}\selectfont
-  ] at ([xshift=-2.2cm,yshift=2.15cm]current page.south east)
-  {\Edition};
+    anchor=south,
+    draw=gray!70!black,
+    fill=gray!15,
+    line width=0.8pt,
+    rounded corners=8pt,
+    inner xsep=1.2cm,
+    inner ysep=0.8cm,
+    text width=0.78\paperwidth,
+    align=center
+  ] at ([yshift=1.2cm]current page.south)
+  {%
+    % Mention d'édition
+    {\bfseries\fontsize{11}{13}\selectfont
+      \Edition\par}
 
-  % Numéro de page :
-  % volontairement absent : cette page n'est pas numérotée.
+    \vspace{0.55cm}
+
+    \rule{0.75\linewidth}{0.4pt}
+
+    \vspace{0.35cm}
+
+    % Avertissement
+    {\fontsize{9.5}{12}\selectfont
+      \textit{Cette édition numérique est réalisée à partir du
+      document original. La transcription cherche à respecter
+      fidèlement le texte, sa présentation et ses particularités.
+      Les éventuelles erreurs de transcription ou d'orthographe
+      seront vérifiées et corrigées ultérieurement.}
+      \par}
+
+    \vspace{0.45cm}
+
+    % Document original
+    {\fontsize{9}{11}\selectfont
+      \textbf{Document original}\par}
+
+    \vspace{0.15cm}
+
+    \href{\DocumentOriginalURL}{%
+      \textbf{Consulter le document original}
+    }
+
+    \vspace{0.3cm}
+
+    % QR code
+    \qrcode[height=1.8cm]{\DocumentOriginalURL}
+  };
 
 \end{tikzpicture}
-

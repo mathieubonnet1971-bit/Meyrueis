@@ -4,7 +4,15 @@
 % La pagination du document commencera avec la page 005,
 % qui porte le numéro imprimé 1.
 
-\thispagestyle{empty}
+% ==============================
+% TABLE DES MATIÈRES
+% ==============================
+
+\pagenumbering{roman}
 
 \tableofcontents
 
+\clearpage
+
+\pagenumbering{arabic}
+\setcounter{page}{0}
