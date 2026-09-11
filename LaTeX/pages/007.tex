@@ -3,7 +3,10 @@
 % Reconstruction éditable en LaTeX.
 
 
-\sectiondate{Lettre d’Henri Belon à son épouse Jeanne}{11 Octobre 162}
+% https://gw.geneanet.org/bourelly?lang=en&p=henri&n=belon (1834)
+
+
+\sectiondate{Lettre d’Henri Belon à son épouse Jeanne}{11 Octobre 1622}
 
 \vspace{0.45em}
 
@@ -11,12 +14,21 @@
 
 \vspace{0.45em}
 
+
+\newcounter{mpFootnoteValueSaver}
+\setcounter{mpFootnoteValueSaver}{\value{footnote}}
+
 \begin{center}
 \begin{minipage}{0.91\textwidth}
 \itshape
-« Cette lettre copiée, tant avec peine vu l’écriture, qu’avec tendresse, vu le respect dû à son auteur par moi, François Belon, âgé de quinze années, m’appartient en propre, je la place dans mon psautier. Quiconque l’en délogera, le diable il l’exaudra ».
+« Cette lettre copiée, tant avec peine vu l’écriture, qu’avec tendresse, vu le respect dû à son auteur par moi, François Belon, âgé de quinze années, m’appartient en propre, je la place dans mon psautier\footnotemark. Quiconque l’en délogera, le diable il l’exaudra\footnotemark ».
 \end{minipage}
 \end{center}
+
+\stepcounter{mpFootnoteValueSaver}%
+\footnotetext[\value{mpFootnoteValueSaver}]{Un psautier est un recueil qui contient les 150 psaumes de la Bible, formant le livre biblique du même nom.}%
+\stepcounter{mpFootnoteValueSaver}%
+\footnotetext[\value{mpFootnoteValueSaver}]{Vient du verbe exaudir en ancien français (du latin exaudire), qui a donné notre verbe moderne exaucer. Troisième personne du singulier du futur simple.}%
 
 \vspace{0.25em}
 
@@ -24,20 +36,57 @@ Copie d’une précieuse lettre d’Henri Belon, colporteur, à son épouse Jean
 
 \begin{center}
 \itshape
-Fait le soir de Noël 1771, après le culte de famille à Meyrueis, diocèse d’Alais.
+Fait le soir de Noël 1771, après le culte de famille à Meyrueis, diocèse d’Alais\footnote{Alès.}.
 \end{center}
 
-\vspace{0.15em}
+\vspace{10mm}
+
+\begin{center}
+\includegraphics[width=\textwidth]{imgs/007.png}
+\end{center}
+
+
+\newpage
+\thispagestyle{empty}
+
+\begin{tikzpicture}[remember picture,overlay]
+
+    % Fond papier
+    \fill[
+        brown!4
+    ]
+    (current page.south west)
+    rectangle
+    (current page.north east);
+
+    % Vergure
+    \foreach \y in {0.3,0.6,...,29.4} {
+        \draw[
+            brown!12,
+            line width=0.15pt
+        ]
+        ([yshift=\y cm]current page.south west)
+        --
+        ([yshift=\y cm]current page.south east);
+    }
+
+\end{tikzpicture}
+
+
+{
+\Junicode
+
+\vspace{-5mm}
 
 Ma chère et bien aimée épouse,
 
 Sœur en Notre Seigneur Jésus-Christ, auquel il plaît présentement que la séparation se fasse de nous deux et de mon cher enfant, espoir vivant de notre foi commune, je vous prie de ne point vous alarmer de la nouvelle que je vous mande à savoir que le Duc a ordonné, que son Bouvetier a sermonné et que les Terres Neuves nous sont fermées à jamais. Ils ont pris tous nos biens et pillé notre chère demeure.
 
-Jeanne ne pleurez point et redisez en votre entendement que ce n’est point ici notre demeure, laquelle vraye est au ciel, ainsi que le promet notre Seigneur Jésus, notre maistre. Il lui a plu de confermer pour son service et sauver par mes mains les Saints Livres, lesquels M…. m’avait baillé de Lausanne.
+Jeanne ne pleurez point et redisez en votre entendement que ce n’est point ici notre demeure, laquelle vraye\footnote{vraie.} est au ciel, ainsi que le promet notre Seigneur Jésus, notre maistre. Il lui a plu de confermer pour son service et sauver par mes mains les Saints Livres, lesquels M…. m’avait baillé de Lausanne.
 
 Si Jean Lacaud vient vous voir, dites lui que notre pauvre ami, son père, est malade en son corps et âme, lesquels tous deux cherchent ses anciennes et toujours chères brebis perdues. Notre pauvre Cardes, le Dieu de Miséricorde veuille le sauver, comme il a fait de moi et de quelques autres. Et voici qu’Il m’a sauvé des persécutions qui, depuis neuf années, font la désolation de la vallée : c’est pour que je porte la parole en tous lieux.
 
-Je vous prie restez encore chez votre mère, je m’en vais devant vous à quelques journées de marche. J’ai passé les montagnes blanches et je suis en l’hospitalière demeure de M. Chalier. J’ai projet de quitter demain le grand Tar, ensuite de quoi marcher sur Mondragon et Beaucaire ; De là, si Dieu me laisse vivre, j’irai parcourir les pays de Rouergue et de Gardonanque, afin de pouvoir atteindre Mialet avant les hautes neiges. S’il vous plaît me suivre, mon Amie, auquel je rendrai grâces à Dieu, laissez notre enfant à Genève, il est en âge de commencer ses humanités et je sais assez le soin que votre mère en prendra. Faites en sorte de me retrouver à Mondragon aux derniers jours de ce mois. Votre mère voudra bien en sa grande bonté, vous avancer un ou deux louis afin de vous assurer un bon guide. Marchez la nuit, reposez vous le jour. A Mondragon, notre cher et vénéré Mr. Pineton de Chambrun, vous portera aide et conseil.
+Je vous prie restez encore chez votre mère, je m’en vais devant vous à quelques journées de marche. J’ai passé les montagnes blanches et je suis en l’hospitalière demeure de M. Chalier. J’ai projet de quitter demain le grand Tar\footnote{Tarn.}, ensuite de quoi marcher sur Mondragon et Beaucaire ; De là, si Dieu me laisse vivre, j’irai parcourir les pays de Rouergue et de Gardonanque, afin de pouvoir atteindre Mialet avant les hautes neiges. S’il vous plaît me suivre, mon Amie, auquel je rendrai grâces à Dieu, laissez notre enfant à Genève, il est en âge de commencer ses humanités et je sais assez le soin que votre mère en prendra. Faites en sorte de me retrouver à Mondragon aux derniers jours de ce mois. Votre mère voudra bien en sa grande bonté, vous avancer un ou deux louis afin de vous assurer un bon guide. Marchez la nuit, reposez vous le jour. A Mondragon, notre cher et vénéré Mr. Pineton de Chambrun, vous portera aide et conseil.
 
 Ne me demandez point nous fixer à Genève. Ce ne sont point les bien-portants qui ont besoin de médecin nous dit notre divin maistre, mais ce sont les malades. Or ceux de Genève sont déjà guéris de même pour ceux de Lausanne.
 
@@ -55,20 +104,26 @@ Votre fidèle mari.
 
 Signé : Henri Belon, humble colporteur du Saint Evangile.
 
-\vspace{0.7em}
+\vspace{0.2em}
 
-\begin{center}
-\textit{\underline{Colportera en Marra}}\\
-\textit{(Meyrueis ?)}
+\begin{tikzpicture}[remember picture,overlay]
+    \node[
+        anchor=south east,
+        text width=5cm,
+        align=center,
+        font=\itshape\small
+    ]
+    at ([xshift=-1.8cm,yshift=3cm]current page.south east)
+    {%
+        \underline{Colportera en Marra}\\
+        (Meyrueis ?)\\[0.4em]
+        \textit{Dunger ne crains}\\
+        \textit{Gibet ne fuy}\\
+        \textit{Mais prudent suy}\\
+        \textit{Le Seigneur nous l’ordonne}\\
+        \textit{Ayant besoin pour Sa sainte cause}\\
+        \textit{De plus de vivants que de morts}
+    };
+\end{tikzpicture}
 
-\vspace{0.55em}
-
-\textit{Dunger ne crains}\\
-\textit{Gibet ne fuy}\\
-\textit{Mais prudent suy}\\
-\textit{Le Seigneur nous l’ordonne}\\
-\textit{Ayant besoin pour Sa sainte cause}\\
-\textit{De plus de vivants que de morts}
-\end{center}
-
-
+}

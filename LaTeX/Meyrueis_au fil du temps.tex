@@ -99,6 +99,9 @@
 \usepackage{xspace}
 \usepackage{etoolbox}
 \usepackage{qrcode}
+\usepackage{bigfoot}
+\DeclareNewFootnote{default}
+\setlength{\skip\footinsdefault}{0pt}
 
 \newcommand{\DocumentOriginalURL}{https://www.calameo.com/read/00500001099e542e47fc5}
 
@@ -108,6 +111,12 @@
 
 %\usepackage{lmodern}
 \usepackage{microtype}
+
+\newfontfamily\EBGaramond{EB Garamond 12 Regular}[
+    Numbers={OldStyle,Proportional}
+]
+
+\newfontfamily\Junicode{Junicode}
 
 % ------------------------------------------------------------
 % PDF
@@ -238,6 +247,15 @@
 }
 
 \setlength{\headheight}{14pt}
+
+% ------------------------------------------------
+% Footnotes
+% ------------------------------------------------
+
+\newcommand{\minifootnote}[1]{%
+  \footnotemark
+  \footnotetext{#1}%
+}
 
 % ============================================================
 % DOCUMENT
