@@ -37,6 +37,14 @@
 \usepackage{tocloft}
 \usepackage[hidelinks]{hyperref}
 
+\renewcommand{\sectionmark}[1]{%
+  \markboth{\thesection\enspace–\enspace#1}{}%
+}
+
+\renewcommand{\subsectionmark}[1]{%
+  \markright{\thesubsection\enspace–\enspace#1}%
+}
+
 % Points de conduite sur toutes les lignes
 \renewcommand{\cftsecleader}{\cftdotfill{\cftdotsep}}
 \renewcommand{\cftsubsecleader}{\cftdotfill{\cftdotsep}}
@@ -44,9 +52,59 @@
 % Densité des points
 \renewcommand{\cftdotsep}{1}
 
-% Espace réservé au numéro
-\setlength{\cftsecnumwidth}{3em}
-\setlength{\cftsubsecnumwidth}{3.5em}
+\usepackage{titlesec}
+
+\renewcommand{\cftsecaftersnum}{\enspace–\enspace}
+\renewcommand{\cftsubsecaftersnum}{\enspace–\enspace}
+\renewcommand{\cftsubsubsecaftersnum}{\enspace\textperiodcentered\enspace}
+
+
+
+% --- Espacement et retraits de la TDM ---
+
+% Sections
+\setlength{\cftsecindent}{0pt}
+\setlength{\cftsecnumwidth}{3.2em}
+
+% Sous-sections
+\setlength{\cftsubsecindent}{1.2em}
+\setlength{\cftsubsecnumwidth}{3.2em}
+
+% Sous-sous-sections
+\setlength{\cftsubsubsecindent}{3.0em}
+\setlength{\cftsubsubsecnumwidth}{4.8em}
+
+% Séparateurs après les numéros
+\renewcommand{\cftsecaftersnum}{\enspace–\enspace}
+\renewcommand{\cftsubsecaftersnum}{\enspace–\enspace}
+\renewcommand{\cftsubsubsecaftersnum}{\enspace\textperiodcentered\enspace}
+
+% Espacement vertical
+\setlength{\cftbeforesecskip}{0.45em}
+\setlength{\cftbeforesubsecskip}{0pt}
+\setlength{\cftbeforesubsubsecskip}{0pt}
+
+% ------------------------------------------------------------
+% Titres
+% ------------------------------------------------------------
+
+\titleformat{\section}
+  {\normalfont\Large\bfseries}
+  {\thesection\enspace–\enspace}
+  {0pt}
+  {}
+
+\titleformat{\subsection}
+  {\normalfont\large\bfseries}
+  {\thesubsection\enspace–\enspace}
+  {0pt}
+  {}
+
+\titleformat{\subsubsection}
+  {\normalfont\normalsize\bfseries}
+  {\thesubsubsection\enspace\textperiodcentered\enspace}
+  {0pt}
+  {}
 
 % ------------------------------------------------------------
 % Mise en page des pages
@@ -269,7 +327,7 @@
 % ==============================
 
 \pagenumbering{arabic}
-\setcounter{page}{1}
+%\setcounter{page}{1}
 
 
 % ------------------------------------------------------------
@@ -306,7 +364,7 @@
 \clearpage
 
 % La première page numérotée du document original est la page 1.
-%\setcounter{page}{1}
+\setcounter{page}{1}
 
 \input{pages/005}
 \clearpage
