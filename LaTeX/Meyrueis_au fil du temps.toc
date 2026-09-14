@@ -89,8 +89,3 @@
 \contentsline {subsection}{\numberline {22.11}Robert VERDIER --- 1910 -- 2009}{106}{subsection.22.11}%
 \contentsline {section}{\numberline {23}Recette de la Morue à la Sauce Blanche}{107}{section.23}%
 \contentsline {section}{\numberline {24}Épilogue}{108}{section.24}%
-\contentsline {paragraph}{Le premier fut l’irruption de la Réforme dès 1550,}{108}{section.24}%
-\contentsline {paragraph}{Le deuxième le courant philosophique des Lumières 1650-1700,}{108}{section.24}%
-\contentsline {paragraph}{Le troisième ce fut la Grande Guerre 1914-1918.}{108}{section.24}%
-\contentsline {paragraph}{Le quatrième la Seconde Guerre Mondiale 1939-1945.}{108}{section.24}%
-\contentsline {paragraph}{Enfin le cinquième et dernier ébranlement depuis 1950,}{108}{section.24}%
