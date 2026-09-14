@@ -76,16 +76,16 @@
 \contentsline {paragraph}{Leur vie à Ferrussac}{99}{subsubsection.21.3.2}%
 \contentsline {paragraph}{Les Harkis au travail}{101}{subsubsection.21.3.2}%
 \contentsline {section}{\numberline {22}Figures locales}{104}{section.22}%
-\contentsline {subsection}{\numberline {22.1}Marceline CAUSSE --- 1901-1987}{104}{subsection.22.1}%
-\contentsline {subsection}{\numberline {22.2}Léon COUDERC --- 1883-1979}{104}{subsection.22.2}%
-\contentsline {subsection}{\numberline {22.3}Raymond FAGES --- 1911-1983}{104}{subsection.22.3}%
-\contentsline {subsection}{\numberline {22.4}Robert HUBAC --- 1910-1975}{105}{subsection.22.4}%
-\contentsline {subsection}{\numberline {22.5}Mgr MARET --- 1805-1884}{105}{subsection.22.5}%
-\contentsline {subsection}{\numberline {22.6}François MARZIALS --- 1779-1861}{105}{subsection.22.6}%
-\contentsline {subsection}{\numberline {22.7}David POUJOL --- 1870-1939}{105}{subsection.22.7}%
+\contentsline {subsection}{\numberline {22.1}Marceline CAUSSE --- 1901 - 1987}{104}{subsection.22.1}%
+\contentsline {subsection}{\numberline {22.2}Léon COUDERC --- 1883 - 1979}{104}{subsection.22.2}%
+\contentsline {subsection}{\numberline {22.3}Raymond FAGES --- 1911 - 1983}{104}{subsection.22.3}%
+\contentsline {subsection}{\numberline {22.4}Robert HUBAC --- 1910 - 1975}{105}{subsection.22.4}%
+\contentsline {subsection}{\numberline {22.5}Mgr MARET --- 1805 - 1884}{105}{subsection.22.5}%
+\contentsline {subsection}{\numberline {22.6}François MARZIALS --- 1779 - 1861}{105}{subsection.22.6}%
+\contentsline {subsection}{\numberline {22.7}David POUJOL --- 1870 - 1939}{105}{subsection.22.7}%
 \contentsline {subsection}{\numberline {22.8}Frank ROBERT --- 1909 - 1988}{105}{subsection.22.8}%
-\contentsline {subsection}{\numberline {22.9}Rosine ROUEL --- 1881-1902}{105}{subsection.22.9}%
-\contentsline {subsection}{\numberline {22.10}Pierre-François SAMUEL, dit « François » --- 1745-1833}{106}{subsection.22.10}%
-\contentsline {subsection}{\numberline {22.11}Robert VERDIER --- 1910 -- 2009}{106}{subsection.22.11}%
+\contentsline {subsection}{\numberline {22.9}Rosine ROUEL --- 1881 - 1902}{105}{subsection.22.9}%
+\contentsline {subsection}{\numberline {22.10}Pierre-François SAMUEL, dit « François » --- 1745 - 1833}{106}{subsection.22.10}%
+\contentsline {subsection}{\numberline {22.11}Robert VERDIER --- 1910 - 2009}{106}{subsection.22.11}%
 \contentsline {section}{\numberline {23}Recette de la Morue à la Sauce Blanche}{107}{section.23}%
 \contentsline {section}{\numberline {24}Épilogue}{108}{section.24}%
