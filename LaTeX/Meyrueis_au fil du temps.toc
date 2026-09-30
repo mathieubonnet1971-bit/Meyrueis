@@ -60,36 +60,36 @@
 \contentsline {subsubsection}{\numberline {21.1.9}Cabrillac}{67}{subsubsection.21.1.9}%
 \contentsline {subsubsection}{\numberline {21.1.10}La tragédie de la Parade}{68}{subsubsection.21.1.10}%
 \contentsline {subsection}{\numberline {21.2}La vallée de la Brèze}{70}{subsection.21.2}%
-\contentsline {subsubsection}{\numberline {21.2.1}La Société Cévenole de Carburants Forestiers}{74}{subsubsection.21.2.1}%
-\contentsline {subsubsection}{\numberline {21.2.2}En remontant la vallée de la Brèze}{78}{subsubsection.21.2.2}%
-\contentsline {subsubsection}{\numberline {21.2.3}Les fêtes des Oubrets}{82}{subsubsection.21.2.3}%
-\contentsline {subsubsection}{\numberline {21.2.4}Le Temple - Ecole des Oubrets}{84}{subsubsection.21.2.4}%
-\contentsline {subsubsection}{\numberline {21.2.5}Un instituteur aux Oubrets}{84}{subsubsection.21.2.5}%
-\contentsline {subsubsection}{\numberline {21.2.6}L'Instituteur, le Maire et le Pasteur}{84}{subsubsection.21.2.6}%
-\contentsline {paragraph}{Mon arrivée aux Oubrets en 1938}{84}{subsubsection.21.2.6}%
-\contentsline {paragraph}{L'accueil}{85}{subsubsection.21.2.6}%
-\contentsline {subsection}{\numberline {21.3}La vallée du Béthuzon}{92}{subsection.21.3}%
-\contentsline {subsubsection}{\numberline {21.3.1}Ferrussac}{94}{subsubsection.21.3.1}%
-\contentsline {paragraph}{Un village exemplaire ?}{94}{subsubsection.21.3.1}%
-\contentsline {subsubsection}{\numberline {21.3.2}Les Harkis à Meyrueis -- 1963-1965}{96}{subsubsection.21.3.2}%
-\contentsline {paragraph}{Réactions du Conseil Municipal}{97}{subsubsection.21.3.2}%
-\contentsline {paragraph}{Leur vie à Ferrussac}{98}{subsubsection.21.3.2}%
-\contentsline {paragraph}{Les Harkis au travail}{100}{subsubsection.21.3.2}%
-\contentsline {section}{\numberline {22}Figures locales}{103}{section.22}%
-\contentsline {subsection}{\numberline {22.1}Marceline CAUSSE --- 1901 - 1987}{103}{subsection.22.1}%
-\contentsline {subsection}{\numberline {22.2}Léon COUDERC --- 1883 - 1979}{103}{subsection.22.2}%
-\contentsline {subsection}{\numberline {22.3}Raymond FAGES --- 1911 - 1983}{103}{subsection.22.3}%
-\contentsline {subsection}{\numberline {22.4}Robert HUBAC --- 1910 - 1975}{104}{subsection.22.4}%
-\contentsline {subsection}{\numberline {22.5}Mgr MARET --- 1805 - 1884}{104}{subsection.22.5}%
-\contentsline {subsection}{\numberline {22.6}François MARZIALS --- 1779 - 1861}{104}{subsection.22.6}%
-\contentsline {subsection}{\numberline {22.7}David POUJOL --- 1870 - 1939}{104}{subsection.22.7}%
-\contentsline {subsection}{\numberline {22.8}Frank ROBERT --- 1909 - 1988}{104}{subsection.22.8}%
-\contentsline {subsection}{\numberline {22.9}Rosine ROUEL --- 1881 - 1902}{104}{subsection.22.9}%
-\contentsline {subsection}{\numberline {22.10}Pierre-François SAMUEL, dit « François » --- 1745 - 1833}{105}{subsection.22.10}%
-\contentsline {subsection}{\numberline {22.11}Robert VERDIER --- 1910 - 2009}{105}{subsection.22.11}%
-\contentsline {section}{\numberline {23}Recette de la Morue à la Sauce Blanche}{106}{section.23}%
-\contentsline {section}{\numberline {24}Épilogue}{107}{section.24}%
-\contentsline {subsection}{\numberline {24.1}La réforme}{107}{subsection.24.1}%
-\contentsline {subsection}{\numberline {24.2}Les Lumières}{107}{subsection.24.2}%
-\contentsline {subsection}{\numberline {24.3}La grande guerre}{107}{subsection.24.3}%
-\contentsline {subsection}{\numberline {24.4}La seconde guerre mondiale}{107}{subsection.24.4}%
+\contentsline {subsubsection}{\numberline {21.2.1}La Société Cévenole de Carburants Forestiers}{73}{subsubsection.21.2.1}%
+\contentsline {subsubsection}{\numberline {21.2.2}En remontant la vallée de la Brèze}{77}{subsubsection.21.2.2}%
+\contentsline {subsubsection}{\numberline {21.2.3}Les fêtes des Oubrets}{81}{subsubsection.21.2.3}%
+\contentsline {subsubsection}{\numberline {21.2.4}Le Temple - Ecole des Oubrets}{83}{subsubsection.21.2.4}%
+\contentsline {subsubsection}{\numberline {21.2.5}Un instituteur aux Oubrets}{83}{subsubsection.21.2.5}%
+\contentsline {subsubsection}{\numberline {21.2.6}L'Instituteur, le Maire et le Pasteur}{83}{subsubsection.21.2.6}%
+\contentsline {paragraph}{Mon arrivée aux Oubrets en 1938}{83}{subsubsection.21.2.6}%
+\contentsline {paragraph}{L'accueil}{84}{subsubsection.21.2.6}%
+\contentsline {subsection}{\numberline {21.3}La vallée du Béthuzon}{91}{subsection.21.3}%
+\contentsline {subsubsection}{\numberline {21.3.1}Ferrussac}{93}{subsubsection.21.3.1}%
+\contentsline {paragraph}{Un village exemplaire ?}{93}{subsubsection.21.3.1}%
+\contentsline {subsubsection}{\numberline {21.3.2}Les Harkis à Meyrueis -- 1963-1965}{95}{subsubsection.21.3.2}%
+\contentsline {paragraph}{Réactions du Conseil Municipal}{96}{subsubsection.21.3.2}%
+\contentsline {paragraph}{Leur vie à Ferrussac}{97}{subsubsection.21.3.2}%
+\contentsline {paragraph}{Les Harkis au travail}{99}{subsubsection.21.3.2}%
+\contentsline {section}{\numberline {22}Figures locales}{102}{section.22}%
+\contentsline {subsection}{\numberline {22.1}Marceline CAUSSE --- 1901 - 1987}{102}{subsection.22.1}%
+\contentsline {subsection}{\numberline {22.2}Léon COUDERC --- 1883 - 1979}{102}{subsection.22.2}%
+\contentsline {subsection}{\numberline {22.3}Raymond FAGES --- 1911 - 1983}{102}{subsection.22.3}%
+\contentsline {subsection}{\numberline {22.4}Robert HUBAC --- 1910 - 1975}{103}{subsection.22.4}%
+\contentsline {subsection}{\numberline {22.5}Mgr MARET --- 1805 - 1884}{103}{subsection.22.5}%
+\contentsline {subsection}{\numberline {22.6}François MARZIALS --- 1779 - 1861}{103}{subsection.22.6}%
+\contentsline {subsection}{\numberline {22.7}David POUJOL --- 1870 - 1939}{103}{subsection.22.7}%
+\contentsline {subsection}{\numberline {22.8}Frank ROBERT --- 1909 - 1988}{103}{subsection.22.8}%
+\contentsline {subsection}{\numberline {22.9}Rosine ROUEL --- 1881 - 1902}{103}{subsection.22.9}%
+\contentsline {subsection}{\numberline {22.10}Pierre-François SAMUEL, dit « François » --- 1745 - 1833}{104}{subsection.22.10}%
+\contentsline {subsection}{\numberline {22.11}Robert VERDIER --- 1910 - 2009}{104}{subsection.22.11}%
+\contentsline {section}{\numberline {23}Recette de la Morue à la Sauce Blanche}{105}{section.23}%
+\contentsline {section}{\numberline {24}Épilogue}{106}{section.24}%
+\contentsline {subsection}{\numberline {24.1}La réforme}{106}{subsection.24.1}%
+\contentsline {subsection}{\numberline {24.2}Les Lumières}{106}{subsection.24.2}%
+\contentsline {subsection}{\numberline {24.3}La grande guerre}{106}{subsection.24.3}%
+\contentsline {subsection}{\numberline {24.4}La seconde guerre mondiale}{106}{subsection.24.4}%
