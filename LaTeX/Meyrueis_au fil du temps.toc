@@ -11,6 +11,8 @@
 \contentsline {section}{\numberline {6}Les Foires de Meyrueis --- 1789-1793}{16}{section.6}%
 \contentsline {section}{\numberline {7}La société populaire de Meyrueis --- 1794}{17}{section.7}%
 \contentsline {section}{\numberline {8}Protestants et Catholiques face à la Révolution --- 1789-1795}{18}{section.8}%
+\contentsline {subsection}{\numberline {8.1}La réaction catholique}{18}{subsection.8.1}%
+\contentsline {subsection}{\numberline {8.2}L’engagement protestant}{18}{subsection.8.2}%
 \contentsline {section}{\numberline {9}Histoire de Samuel François --- 1789-1795}{20}{section.9}%
 \contentsline {section}{\numberline {10}Brève description de Meyrueis}{22}{section.10}%
 \contentsline {section}{\numberline {11}Fabrique de pointes à Meyrueis --- 1835}{23}{section.11}%
