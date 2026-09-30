@@ -146,6 +146,48 @@
 }
 
 % ------------------------------------------------------------
+% Paragraphes en subsubsubsection
+% ------------------------------------------------------------
+
+\usepackage{titlesec}
+
+\setcounter{secnumdepth}{4}
+\setcounter{tocdepth}{4}
+
+\titleformat{\paragraph}
+  {\normalfont\normalsize\bfseries}
+  {\theparagraph}
+  {1em}
+  {}
+
+\titlespacing*{\paragraph}
+  {0pt}
+  {3.25ex plus 1ex minus .2ex}
+  {1.5ex plus .2ex}
+
+\newcommand{\subsubsubsection}[1]{%
+  \paragraph{#1}
+}
+
+\setcounter{secnumdepth}{5}
+\setcounter{tocdepth}{5}
+
+\titleformat{\subparagraph}
+  {\normalfont\normalsize\bfseries}
+  {\thesubparagraph}
+  {1em}
+  {}
+
+\titlespacing*{\subparagraph}
+  {0pt}
+  {3.25ex plus 1ex minus .2ex}
+  {1.5ex plus .2ex}
+
+\newcommand{\subsubsubsubsection}[1]{%
+  \subparagraph{#1}
+}
+
+% ------------------------------------------------------------
 % Packages
 % ------------------------------------------------------------
 
