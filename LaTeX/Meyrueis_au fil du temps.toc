@@ -105,23 +105,23 @@
 \contentsline {paragraph}{\numberline {21.3.3.3}Les Harkis au travail}{101}{paragraph.21.3.3.3}%
 \contentsline {subparagraph}{\numberline {21.3.3.3.1}Et maintenant ? 25 ans plus tard ?}{102}{subparagraph.21.3.3.3.1}%
 \contentsline {subparagraph}{\numberline {21.3.3.3.2}En guise de conclusion provisoire}{102}{subparagraph.21.3.3.3.2}%
-\contentsline {paragraph}{\numberline {21.3.3.4}Notes de l'auteur}{104}{paragraph.21.3.3.4}%
-\contentsline {paragraph}{\numberline {21.3.3.5}Contacts avec la population}{104}{paragraph.21.3.3.5}%
-\contentsline {section}{\numberline {22}Figures locales}{105}{section.22}%
-\contentsline {subsection}{\numberline {22.1}Marceline CAUSSE --- 1901 - 1987}{105}{subsection.22.1}%
-\contentsline {subsection}{\numberline {22.2}Léon COUDERC --- 1883 - 1979}{105}{subsection.22.2}%
-\contentsline {subsection}{\numberline {22.3}Raymond FAGES --- 1911 - 1983}{105}{subsection.22.3}%
-\contentsline {subsection}{\numberline {22.4}Robert HUBAC --- 1910 - 1975}{106}{subsection.22.4}%
-\contentsline {subsection}{\numberline {22.5}Mgr MARET --- 1805 - 1884}{106}{subsection.22.5}%
-\contentsline {subsection}{\numberline {22.6}François MARZIALS --- 1779 - 1861}{106}{subsection.22.6}%
-\contentsline {subsection}{\numberline {22.7}David POUJOL --- 1870 - 1939}{106}{subsection.22.7}%
-\contentsline {subsection}{\numberline {22.8}Frank ROBERT --- 1909 - 1988}{106}{subsection.22.8}%
-\contentsline {subsection}{\numberline {22.9}Rosine ROUEL --- 1881 - 1902}{106}{subsection.22.9}%
-\contentsline {subsection}{\numberline {22.10}Pierre-François SAMUEL, dit « François » --- 1745 - 1833}{107}{subsection.22.10}%
-\contentsline {subsection}{\numberline {22.11}Robert VERDIER --- 1910 - 2009}{107}{subsection.22.11}%
-\contentsline {section}{\numberline {23}Recette de la Morue à la Sauce Blanche}{108}{section.23}%
-\contentsline {section}{\numberline {24}Épilogue}{109}{section.24}%
-\contentsline {subsection}{\numberline {24.1}La réforme}{109}{subsection.24.1}%
-\contentsline {subsection}{\numberline {24.2}Les Lumières}{109}{subsection.24.2}%
-\contentsline {subsection}{\numberline {24.3}La grande guerre}{109}{subsection.24.3}%
-\contentsline {subsection}{\numberline {24.4}La seconde guerre mondiale}{109}{subsection.24.4}%
+\contentsline {paragraph}{\numberline {21.3.3.4}Notes de l'auteur}{103}{paragraph.21.3.3.4}%
+\contentsline {paragraph}{\numberline {21.3.3.5}Contacts avec la population}{103}{paragraph.21.3.3.5}%
+\contentsline {section}{\numberline {22}Figures locales}{104}{section.22}%
+\contentsline {subsection}{\numberline {22.1}Marceline CAUSSE --- 1901 - 1987}{104}{subsection.22.1}%
+\contentsline {subsection}{\numberline {22.2}Léon COUDERC --- 1883 - 1979}{104}{subsection.22.2}%
+\contentsline {subsection}{\numberline {22.3}Raymond FAGES --- 1911 - 1983}{104}{subsection.22.3}%
+\contentsline {subsection}{\numberline {22.4}Robert HUBAC --- 1910 - 1975}{105}{subsection.22.4}%
+\contentsline {subsection}{\numberline {22.5}Mgr MARET --- 1805 - 1884}{105}{subsection.22.5}%
+\contentsline {subsection}{\numberline {22.6}François MARZIALS --- 1779 - 1861}{105}{subsection.22.6}%
+\contentsline {subsection}{\numberline {22.7}David POUJOL --- 1870 - 1939}{105}{subsection.22.7}%
+\contentsline {subsection}{\numberline {22.8}Frank ROBERT --- 1909 - 1988}{105}{subsection.22.8}%
+\contentsline {subsection}{\numberline {22.9}Rosine ROUEL --- 1881 - 1902}{105}{subsection.22.9}%
+\contentsline {subsection}{\numberline {22.10}Pierre-François SAMUEL, dit « François » --- 1745 - 1833}{106}{subsection.22.10}%
+\contentsline {subsection}{\numberline {22.11}Robert VERDIER --- 1910 - 2009}{106}{subsection.22.11}%
+\contentsline {section}{\numberline {23}Recette de la Morue à la Sauce Blanche}{107}{section.23}%
+\contentsline {section}{\numberline {24}Épilogue}{108}{section.24}%
+\contentsline {subsection}{\numberline {24.1}La réforme}{108}{subsection.24.1}%
+\contentsline {subsection}{\numberline {24.2}Les Lumières}{108}{subsection.24.2}%
+\contentsline {subsection}{\numberline {24.3}La grande guerre}{108}{subsection.24.3}%
+\contentsline {subsection}{\numberline {24.4}La seconde guerre mondiale}{108}{subsection.24.4}%
