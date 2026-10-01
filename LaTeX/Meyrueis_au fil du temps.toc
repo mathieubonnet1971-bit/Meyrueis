@@ -29,7 +29,7 @@
 \contentsline {subsection}{\numberline {17.1}Juillet 1932 : Installation à Meyrueis}{37}{subsection.17.1}%
 \contentsline {subsection}{\numberline {17.2}Notre concierge Monsieur Avesque (dit Lou Rascle)}{38}{subsection.17.2}%
 \contentsline {subsection}{\numberline {17.3}Vie de l’église}{39}{subsection.17.3}%
-\contentsline {subsection}{\numberline {17.4}Climat général en 1932 -- 1935}{41}{subsection.17.4}%
+\contentsline {subsection}{\numberline {17.4}Climat général en 1932-1935}{41}{subsection.17.4}%
 \contentsline {section}{\numberline {18}Les chantiers de jeunesse à Meyrueis --- 1940-1944}{42}{section.18}%
 \contentsline {subsection}{\numberline {18.1}Histoire}{42}{subsection.18.1}%
 \contentsline {subsection}{\numberline {18.2}Le groupement 19 à Meyrueis}{43}{subsection.18.2}%
@@ -65,48 +65,48 @@
 \contentsline {paragraph}{\numberline {21.1.10.2}Après la libération}{70}{paragraph.21.1.10.2}%
 \contentsline {paragraph}{\numberline {21.1.10.3}L’usine de Carburants Forestiers et Meyrueis}{70}{paragraph.21.1.10.3}%
 \contentsline {paragraph}{\numberline {21.1.10.4}La page est tournée.}{70}{paragraph.21.1.10.4}%
-\contentsline {subsection}{\numberline {21.2}La vallée de la Brèze}{71}{subsection.21.2}%
+\contentsline {subsection}{\numberline {21.2}La vallée de la Brèze}{72}{subsection.21.2}%
 \contentsline {subsubsection}{\numberline {21.2.1}La Société Cévenole de Carburants Forestiers}{75}{subsubsection.21.2.1}%
 \contentsline {paragraph}{\numberline {21.2.1.1}Les débuts de l’Usine d’Alauze}{76}{paragraph.21.2.1.1}%
-\contentsline {paragraph}{\numberline {21.2.1.2}Réfractaires et Etrangers à l’usine}{78}{paragraph.21.2.1.2}%
+\contentsline {paragraph}{\numberline {21.2.1.2}Réfractaires et Étrangers à l’usine}{78}{paragraph.21.2.1.2}%
 \contentsline {paragraph}{\numberline {21.2.1.3}Rencontre avec le maquis}{78}{paragraph.21.2.1.3}%
 \contentsline {subsubsection}{\numberline {21.2.2}En remontant la vallée de la Brèze}{79}{subsubsection.21.2.2}%
 \contentsline {subsubsection}{\numberline {21.2.3}Les fêtes des Oubrets}{83}{subsubsection.21.2.3}%
-\contentsline {subsubsection}{\numberline {21.2.4}Le Temple - Ecole des Oubrets}{84}{subsubsection.21.2.4}%
+\contentsline {subsubsection}{\numberline {21.2.4}Le Temple -- École des Oubrets}{84}{subsubsection.21.2.4}%
 \contentsline {subsubsection}{\numberline {21.2.5}Un instituteur aux Oubrets en 1938}{85}{subsubsection.21.2.5}%
 \contentsline {paragraph}{\numberline {21.2.5.1}L'Instituteur, le Maire et le Pasteur}{85}{paragraph.21.2.5.1}%
 \contentsline {subparagraph}{\numberline {21.2.5.1.1}Mon arrivée aux Oubrets en 1938}{85}{subparagraph.21.2.5.1.1}%
 \contentsline {subparagraph}{\numberline {21.2.5.1.2}L'accueil}{85}{subparagraph.21.2.5.1.2}%
-\contentsline {subparagraph}{\numberline {21.2.5.1.3}Le Maire : M. Fages}{87}{subparagraph.21.2.5.1.3}%
+\contentsline {subparagraph}{\numberline {21.2.5.1.3}Le Maire -- M. Fages}{87}{subparagraph.21.2.5.1.3}%
 \contentsline {subparagraph}{\numberline {21.2.5.1.4}Le Pasteur}{87}{subparagraph.21.2.5.1.4}%
-\contentsline {subparagraph}{\numberline {21.2.5.1.5}L’Institutueur : M. Galtier}{88}{subparagraph.21.2.5.1.5}%
+\contentsline {subparagraph}{\numberline {21.2.5.1.5}L’Institutueur -- M. Galtier}{88}{subparagraph.21.2.5.1.5}%
 \contentsline {subparagraph}{\numberline {21.2.5.1.6}Visite de l’Inspecteur Primaire}{88}{subparagraph.21.2.5.1.6}%
 \contentsline {subparagraph}{\numberline {21.2.5.1.7}Mariage et arrivée de ma jeune femme.}{89}{subparagraph.21.2.5.1.7}%
 \contentsline {subparagraph}{\numberline {21.2.5.1.8}Mes élèves}{89}{subparagraph.21.2.5.1.8}%
-\contentsline {paragraph}{\numberline {21.2.5.2}Le Temple - Ecole. Un peu d’histoire}{90}{paragraph.21.2.5.2}%
+\contentsline {paragraph}{\numberline {21.2.5.2}Le Temple-École -- Un peu d’histoire}{90}{paragraph.21.2.5.2}%
 \contentsline {paragraph}{\numberline {21.2.5.3}Le ravitaillement}{91}{paragraph.21.2.5.3}%
 \contentsline {paragraph}{\numberline {21.2.5.4}L’environnement}{91}{paragraph.21.2.5.4}%
 \contentsline {paragraph}{\numberline {21.2.5.5}Les Habitants des Oubrets}{92}{paragraph.21.2.5.5}%
-\contentsline {paragraph}{\numberline {21.2.5.6}Juin-juillet : Fin de l’année scolaire}{93}{paragraph.21.2.5.6}%
-\contentsline {subparagraph}{\numberline {21.2.5.6.1}Juin :}{93}{subparagraph.21.2.5.6.1}%
-\contentsline {subparagraph}{\numberline {21.2.5.6.2}Juillet :}{93}{subparagraph.21.2.5.6.2}%
+\contentsline {paragraph}{\numberline {21.2.5.6}Juin-juillet -- Fin de l’année scolaire}{93}{paragraph.21.2.5.6}%
+\contentsline {subparagraph}{\numberline {21.2.5.6.1}Juin}{93}{subparagraph.21.2.5.6.1}%
+\contentsline {subparagraph}{\numberline {21.2.5.6.2}Juillet}{93}{subparagraph.21.2.5.6.2}%
 \contentsline {subsection}{\numberline {21.3}La vallée du Béthuzon}{93}{subsection.21.3}%
 \contentsline {subsubsection}{\numberline {21.3.1}Les moulins et les fours à pain}{94}{subsubsection.21.3.1}%
 \contentsline {subsubsection}{\numberline {21.3.2}Ferrussac}{95}{subsubsection.21.3.2}%
 \contentsline {paragraph}{\numberline {21.3.2.1}Un village exemplaire ?}{95}{paragraph.21.3.2.1}%
 \contentsline {subparagraph}{\numberline {21.3.2.1.1}Projet de temple}{95}{subparagraph.21.3.2.1.1}%
-\contentsline {subparagraph}{\numberline {21.3.2.1.2}La scie :}{95}{subparagraph.21.3.2.1.2}%
+\contentsline {subparagraph}{\numberline {21.3.2.1.2}La scie}{95}{subparagraph.21.3.2.1.2}%
 \contentsline {subparagraph}{\numberline {21.3.2.1.3}Le troupeau de Ferrussac}{95}{subparagraph.21.3.2.1.3}%
 \contentsline {subsubsection}{\numberline {21.3.3}Les Harkis à Meyrueis -- 1963-1965}{97}{subsubsection.21.3.3}%
 \contentsline {subparagraph}{\numberline {21.3.3.0.1}Très bref historique}{97}{subparagraph.21.3.3.0.1}%
-\contentsline {subparagraph}{\numberline {21.3.3.0.2}Les Harkis à Meyrueis}{98}{subparagraph.21.3.3.0.2}%
-\contentsline {paragraph}{\numberline {21.3.3.1}Réactions du Conseil Municipal}{98}{paragraph.21.3.3.1}%
+\contentsline {subparagraph}{\numberline {21.3.3.0.2}Les Harkis à Meyrueis}{97}{subparagraph.21.3.3.0.2}%
+\contentsline {paragraph}{\numberline {21.3.3.1}Réactions du Conseil Municipal}{97}{paragraph.21.3.3.1}%
 \contentsline {paragraph}{\numberline {21.3.3.2}Leur vie à Ferrussac}{98}{paragraph.21.3.3.2}%
 \contentsline {paragraph}{\numberline {21.3.3.3}Les Harkis au travail}{101}{paragraph.21.3.3.3}%
 \contentsline {subparagraph}{\numberline {21.3.3.3.1}Et maintenant ? 25 ans plus tard ?}{102}{subparagraph.21.3.3.3.1}%
 \contentsline {subparagraph}{\numberline {21.3.3.3.2}En guise de conclusion provisoire}{102}{subparagraph.21.3.3.3.2}%
-\contentsline {paragraph}{\numberline {21.3.3.4}Notes sur les informations concernant les harkis fournies dans ce recueil}{104}{paragraph.21.3.3.4}%
-\contentsline {subparagraph}{\numberline {21.3.3.4.1}Contacts avec la population :}{104}{subparagraph.21.3.3.4.1}%
+\contentsline {paragraph}{\numberline {21.3.3.4}Notes de l'auteur}{104}{paragraph.21.3.3.4}%
+\contentsline {paragraph}{\numberline {21.3.3.5}Contacts avec la population}{104}{paragraph.21.3.3.5}%
 \contentsline {section}{\numberline {22}Figures locales}{105}{section.22}%
 \contentsline {subsection}{\numberline {22.1}Marceline CAUSSE --- 1901 - 1987}{105}{subsection.22.1}%
 \contentsline {subsection}{\numberline {22.2}Léon COUDERC --- 1883 - 1979}{105}{subsection.22.2}%
