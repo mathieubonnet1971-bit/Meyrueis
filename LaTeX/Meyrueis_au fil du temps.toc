@@ -51,7 +51,7 @@
 \contentsline {subsection}{\numberline {20.2}Un assassinat en 1826}{56}{subsection.20.2}%
 \contentsline {section}{\numberline {21}Meyrueis et ses trois vallées}{58}{section.21}%
 \contentsline {subsection}{\numberline {21.1}La vallée de la Jonte}{59}{subsection.21.1}%
-\contentsline {subsubsection}{\numberline {21.1.1}La famille Roussel -- du Villaret au Château d’Ayres}{59}{subsubsection.21.1.1}%
+\contentsline {subsubsection}{\numberline {21.1.1}La famille Roussel -- Du Villaret au Château d’Ayres}{59}{subsubsection.21.1.1}%
 \contentsline {subsubsection}{\numberline {21.1.2}La restauration du château d’Ayres}{61}{subsubsection.21.1.2}%
 \contentsline {subsubsection}{\numberline {21.1.3}La période 1939-1945 : années de guerre}{61}{subsubsection.21.1.3}%
 \contentsline {subsubsection}{\numberline {21.1.4}Ginette et Nicole}{62}{subsubsection.21.1.4}%
@@ -74,12 +74,12 @@
 \contentsline {subsubsection}{\numberline {21.2.3}Les fêtes des Oubrets}{83}{subsubsection.21.2.3}%
 \contentsline {subsubsection}{\numberline {21.2.4}Le Temple -- École des Oubrets}{84}{subsubsection.21.2.4}%
 \contentsline {subsubsection}{\numberline {21.2.5}Un instituteur aux Oubrets en 1938}{85}{subsubsection.21.2.5}%
-\contentsline {paragraph}{\numberline {21.2.5.1}L'Instituteur, le Maire et le Pasteur}{85}{paragraph.21.2.5.1}%
+\contentsline {paragraph}{\numberline {21.2.5.1}L'instituteur, le Maire et le Pasteur}{85}{paragraph.21.2.5.1}%
 \contentsline {subparagraph}{\numberline {21.2.5.1.1}Mon arrivée aux Oubrets en 1938}{85}{subparagraph.21.2.5.1.1}%
 \contentsline {subparagraph}{\numberline {21.2.5.1.2}L'accueil}{85}{subparagraph.21.2.5.1.2}%
 \contentsline {subparagraph}{\numberline {21.2.5.1.3}Le Maire -- M. Fages}{87}{subparagraph.21.2.5.1.3}%
 \contentsline {subparagraph}{\numberline {21.2.5.1.4}Le Pasteur}{87}{subparagraph.21.2.5.1.4}%
-\contentsline {subparagraph}{\numberline {21.2.5.1.5}L’Institutueur -- M. Galtier}{88}{subparagraph.21.2.5.1.5}%
+\contentsline {subparagraph}{\numberline {21.2.5.1.5}L’institutueur -- M. Galtier}{88}{subparagraph.21.2.5.1.5}%
 \contentsline {subparagraph}{\numberline {21.2.5.1.6}Visite de l’Inspecteur Primaire}{88}{subparagraph.21.2.5.1.6}%
 \contentsline {subparagraph}{\numberline {21.2.5.1.7}Mariage et arrivée de ma jeune femme.}{89}{subparagraph.21.2.5.1.7}%
 \contentsline {subparagraph}{\numberline {21.2.5.1.8}Mes élèves}{89}{subparagraph.21.2.5.1.8}%
