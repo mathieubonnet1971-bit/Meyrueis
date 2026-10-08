@@ -377,24 +377,34 @@ alimentée probablement par des bourres de soie venant également des basses
 Cévennes, Le Vigan, Anduze, Saint André de Valborgne… et Meyrueis ! Le registre
 des patentes en donne la description suivante :
 
+
+% Réserver le prochain numéro de note
+\stepcounter{footnote}%
+\edef\savedfootnote{\thefootnote}%
+
 \begin{center}
-\parbox{0.9\textwidth}{
-\textit{
+\parbox{0.9\textwidth}{%
+\itshape
 « Le bâtiment principal est mieux bâti et plus important à l’intérieur qu’il ne
 paraît l’être du dehors. Il est divisé en quatre compartiments : les deux
 principaux renferment les 7 métiers mécaniques, l’un des autres sert de magasin
 pour les frisons et de logement au contremaître et le quatrième qui n’est pour
-ainsi dire qu’un hangar sert pour l’étendage des frisons de filoselle\footnote{En sériciculture, le frison et la filoselle désignent deux étapes successives de la revalorisation des déchets et résidus de soie.}.
+ainsi dire qu’un hangar sert pour l’étendage des frisons de filoselle%
+\textsuperscript{\savedfootnote}.
 Il y a de plus, attenant à la maison une cour assez vaste qui sert aussi pour
 l’étendage.
+
 La marchandise, une fois dégrossie est transportée à Meyrueis dans les deux
 vastes salles que l’industriel y tient à sa disposition pour être soumise à l’action
 des presses. »
 }
-}
 \end{center}
 
-% PB FOOTNOTE L 387 !!!
+\footnotetext[\savedfootnote]{%
+En sériciculture, le frison et la filoselle désignent deux étapes successives
+de la revalorisation des déchets et résidus de soie.%
+}
+
 
 Le contremaître n’est autre qu’un certain Benjamin Avesque à partir de 1850 et
 \textit{« sa maison est assez vaste et assez bien bâtie. Les 7 métiers à carder les bourres de soie sont
@@ -426,7 +436,7 @@ En 1859 le foulon est ainsi décrit :
 \item Le bâtiment grange \hspace{8.9cm} 200F \hspace{0.5cm} 5\% \hspace{0.45cm} 10F. »
 \end{itemize}}
 
-\textit{« …le foulon est mis en mouvement par une 2° roue également verticale et qui
+\textit{« …le foulon est mis en mouvement par une 2\textsuperscript{e} roue également verticale et qui
 reçoit une chute particulière… dans les mois les plus secs de l’été les 2 roues
 motrices du foulon et des métiers ne peuvent marcher simultanément mais cet
 inconvénient est presque nul pour cette usine car elle ne travaille guère que dans
@@ -461,18 +471,17 @@ pour garantie de reprises dotales de cette dernière se portant à la somme de
 \end{flushleft}
 
 Incapable de régler cette somme \textbf{Saumade} dut vendre pour « purger cette
-hypothèque ». (rembourser à son beau père la dot que ce dernier avait donné à sa
+hypothèque » (rembourser à son beau père la dot que ce dernier avait donné à sa
 fille lors de son mariage !!!).
 
 Mon arrière grand père, \textbf{Louis Couderc}, tisserand à Meyrueis au Ferradou
 connaissant bien Saumade et le Moulin d’Ayres, pour qui il avait travaillé, se
 porta acquéreur pour la somme de 9.000 Fr. L’acte de vente fut signé le 26 Mai
-1890. (4.000 Fr. furent payés comptant et 5.000 exigibles à la fin Septembre
+1890 (4.000 Fr. furent payés comptant et 5.000 exigibles à la fin Septembre
 1893, plus, bien entendu, l’intérêt fixé à 4\% l’an).
 
 C’était une grosse somme et Louis Couderc eut du mal à réunir ces 5.000 Fr.
-gagnés par un travail acharné et une vie très austère. (sa fille, Emma Couderc-
-Loupiac disait « n’avoir pas toujours mangé à sa faim ») ; au point qu’il
+gagnés par un travail acharné et une vie très austère (sa fille, Emma Couderc-Loupiac disait « n’avoir pas toujours mangé à sa faim ») ; au point qu’il
 envisagea de revendre le Moulin. Finalement il resta dans la famille, et la
 filature fit d’assez bonnes affaires ; la famille connut une certaine aisance
 d’autant plus que \textbf{Paul Loupiac}, mari d’Emma, mon grand père, très compétent
@@ -490,7 +499,7 @@ amena l’arrêt définitif de la filature.
 
 Les machines étaient devenues obsolètes : il eût fallu en racheter de nouvelles,
 investir et Frank Loupiac le fils qui aurait désiré rester au pays était trop jeune
-et sans moyens financiers Peut être se rendit-il compte que ces petites entreprises,
+et sans moyens financiers. Peut être se rendit-il compte que ces petites entreprises,
 cardages, moulinages, filatures, chapelleries étaient condamnées par « le progrès
 industriel ».
 
