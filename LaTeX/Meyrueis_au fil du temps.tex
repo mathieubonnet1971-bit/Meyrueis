@@ -253,6 +253,13 @@
     \end {center}
 }
 
+\usepackage{afterpage}
+\newcommand\myemptypage{%
+    \null
+    \thispagestyle{empty}
+    \addtocounter{page}{-1}
+    \newpage
+}
 % ------------------------------------------------------------
 % Réglages généraux
 % ------------------------------------------------------------
