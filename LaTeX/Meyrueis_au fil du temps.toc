@@ -122,7 +122,7 @@
 \contentsline {subsection}{\numberline {22.7}David POUJOL --- 1870 - 1939}{105}{subsection.22.7}%
 \contentsline {subsection}{\numberline {22.8}Frank ROBERT --- 1909 - 1988}{105}{subsection.22.8}%
 \contentsline {subsection}{\numberline {22.9}Rosine ROUEL --- 1881 - 1902}{105}{subsection.22.9}%
-\contentsline {subsection}{\numberline {22.10}Pierre-François SAMUEL, dit « François » --- 1745 - 1833}{106}{subsection.22.10}%
+\contentsline {subsection}{\numberline {22.10}Pierre-François SAMUEL, dit «~François~» --- 1745 - 1833}{106}{subsection.22.10}%
 \contentsline {subsection}{\numberline {22.11}Robert VERDIER --- 1910 - 2009}{106}{subsection.22.11}%
 \contentsline {section}{\numberline {23}Recette de la Morue à la Sauce Blanche}{107}{section.23}%
 \contentsline {section}{\numberline {24}Épilogue}{108}{section.24}%
