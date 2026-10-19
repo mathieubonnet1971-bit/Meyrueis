@@ -1,5 +1,6 @@
 \babel@toc {french}{}\relax 
-\contentsline {section}{\numberline {1}Abréviations}{1}{section.1}%
+\contentsline {section}{\numberline {1}À propos de cette édition}{1}{section.1}%
+\contentsline {subsection}{\numberline {1.1}Abréviations utilisées dans ce recueil}{1}{subsection.1.1}%
 \contentsline {section}{\numberline {2}Carte du pays de Meyrueis}{2}{section.2}%
 \contentsline {section}{\numberline {3}Avant Propos}{3}{section.3}%
 \contentsline {section}{\numberline {4}Lettre d’Henri Belon à son épouse Jeanne --- 11 Octobre 1622}{5}{section.4}%
