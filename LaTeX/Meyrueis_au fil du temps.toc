@@ -69,31 +69,32 @@
 \contentsline {paragraph}{\numberline {22.1.10.3}L’usine de Carburants Forestiers et Meyrueis}{70}{paragraph.22.1.10.3}%
 \contentsline {paragraph}{\numberline {22.1.10.4}La page est tournée.}{71}{paragraph.22.1.10.4}%
 \contentsline {subsection}{\numberline {22.2}La vallée de la Brèze}{72}{subsection.22.2}%
-\contentsline {subsubsection}{\numberline {22.2.1}La Société Cévenole de Carburants Forestiers}{75}{subsubsection.22.2.1}%
-\contentsline {paragraph}{\numberline {22.2.1.1}Les débuts de l’Usine d’Alauze}{76}{paragraph.22.2.1.1}%
-\contentsline {paragraph}{\numberline {22.2.1.2}L’attaque du maquis d’Aire de Côte en 1943}{77}{paragraph.22.2.1.2}%
-\contentsline {paragraph}{\numberline {22.2.1.3}Réfractaires et Étrangers à l’usine}{78}{paragraph.22.2.1.3}%
-\contentsline {paragraph}{\numberline {22.2.1.4}Rencontre avec le maquis}{78}{paragraph.22.2.1.4}%
-\contentsline {subsubsection}{\numberline {22.2.2}En remontant la vallée de la Brèze -- L'arbre du poivre}{79}{subsubsection.22.2.2}%
-\contentsline {subsubsection}{\numberline {22.2.3}Les fêtes des Oubrets}{83}{subsubsection.22.2.3}%
-\contentsline {subsubsection}{\numberline {22.2.4}Le Temple -- École des Oubrets}{84}{subsubsection.22.2.4}%
-\contentsline {subsubsection}{\numberline {22.2.5}Un instituteur aux Oubrets en 1938}{85}{subsubsection.22.2.5}%
-\contentsline {paragraph}{\numberline {22.2.5.1}L'instituteur, le maire et le pasteur}{85}{paragraph.22.2.5.1}%
-\contentsline {subparagraph}{\numberline {22.2.5.1.1}Mon arrivée aux Oubrets en 1938}{85}{subparagraph.22.2.5.1.1}%
-\contentsline {subparagraph}{\numberline {22.2.5.1.2}L'accueil}{85}{subparagraph.22.2.5.1.2}%
-\contentsline {subparagraph}{\numberline {22.2.5.1.3}Le maire -- M. Fages}{87}{subparagraph.22.2.5.1.3}%
-\contentsline {subparagraph}{\numberline {22.2.5.1.4}Le pasteur}{88}{subparagraph.22.2.5.1.4}%
-\contentsline {subparagraph}{\numberline {22.2.5.1.5}L’institutueur -- M. Galtier}{88}{subparagraph.22.2.5.1.5}%
-\contentsline {subparagraph}{\numberline {22.2.5.1.6}Visite de l’inspecteur primaire}{88}{subparagraph.22.2.5.1.6}%
-\contentsline {subparagraph}{\numberline {22.2.5.1.7}Mariage et arrivée de ma jeune femme.}{89}{subparagraph.22.2.5.1.7}%
-\contentsline {subparagraph}{\numberline {22.2.5.1.8}Mes élèves}{89}{subparagraph.22.2.5.1.8}%
-\contentsline {paragraph}{\numberline {22.2.5.2}Le Temple-École -- Un peu d’histoire}{90}{paragraph.22.2.5.2}%
-\contentsline {paragraph}{\numberline {22.2.5.3}Le ravitaillement}{91}{paragraph.22.2.5.3}%
-\contentsline {paragraph}{\numberline {22.2.5.4}L’environnement}{92}{paragraph.22.2.5.4}%
-\contentsline {paragraph}{\numberline {22.2.5.5}Les Habitants des Oubrets}{92}{paragraph.22.2.5.5}%
-\contentsline {paragraph}{\numberline {22.2.5.6}Juin-juillet -- Fin de l’année scolaire}{93}{paragraph.22.2.5.6}%
-\contentsline {subparagraph}{\numberline {22.2.5.6.1}Juin}{93}{subparagraph.22.2.5.6.1}%
-\contentsline {subparagraph}{\numberline {22.2.5.6.2}Juillet}{93}{subparagraph.22.2.5.6.2}%
+\contentsline {subsubsection}{\numberline {22.2.1}L'arbre du poivre}{72}{subsubsection.22.2.1}%
+\contentsline {subsubsection}{\numberline {22.2.2}La Société Cévenole de Carburants Forestiers}{75}{subsubsection.22.2.2}%
+\contentsline {paragraph}{\numberline {22.2.2.1}Les débuts de l’Usine d’Alauze}{76}{paragraph.22.2.2.1}%
+\contentsline {paragraph}{\numberline {22.2.2.2}L’attaque du maquis d’Aire de Côte en 1943}{77}{paragraph.22.2.2.2}%
+\contentsline {paragraph}{\numberline {22.2.2.3}Réfractaires et Étrangers à l’usine}{78}{paragraph.22.2.2.3}%
+\contentsline {paragraph}{\numberline {22.2.2.4}Rencontre avec le maquis}{78}{paragraph.22.2.2.4}%
+\contentsline {subsubsection}{\numberline {22.2.3}En remontant la vallée de la Brèze -- L'arbre du poivre}{79}{subsubsection.22.2.3}%
+\contentsline {subsubsection}{\numberline {22.2.4}Les fêtes des Oubrets}{83}{subsubsection.22.2.4}%
+\contentsline {subsubsection}{\numberline {22.2.5}Le Temple -- École des Oubrets}{84}{subsubsection.22.2.5}%
+\contentsline {subsubsection}{\numberline {22.2.6}Un instituteur aux Oubrets en 1938}{85}{subsubsection.22.2.6}%
+\contentsline {paragraph}{\numberline {22.2.6.1}L'instituteur, le maire et le pasteur}{85}{paragraph.22.2.6.1}%
+\contentsline {subparagraph}{\numberline {22.2.6.1.1}Mon arrivée aux Oubrets en 1938}{85}{subparagraph.22.2.6.1.1}%
+\contentsline {subparagraph}{\numberline {22.2.6.1.2}L'accueil}{85}{subparagraph.22.2.6.1.2}%
+\contentsline {subparagraph}{\numberline {22.2.6.1.3}Le maire -- M. Fages}{87}{subparagraph.22.2.6.1.3}%
+\contentsline {subparagraph}{\numberline {22.2.6.1.4}Le pasteur}{88}{subparagraph.22.2.6.1.4}%
+\contentsline {subparagraph}{\numberline {22.2.6.1.5}L’institutueur -- M. Galtier}{88}{subparagraph.22.2.6.1.5}%
+\contentsline {subparagraph}{\numberline {22.2.6.1.6}Visite de l’inspecteur primaire}{88}{subparagraph.22.2.6.1.6}%
+\contentsline {subparagraph}{\numberline {22.2.6.1.7}Mariage et arrivée de ma jeune femme.}{89}{subparagraph.22.2.6.1.7}%
+\contentsline {subparagraph}{\numberline {22.2.6.1.8}Mes élèves}{89}{subparagraph.22.2.6.1.8}%
+\contentsline {paragraph}{\numberline {22.2.6.2}Le Temple-École -- Un peu d’histoire}{90}{paragraph.22.2.6.2}%
+\contentsline {paragraph}{\numberline {22.2.6.3}Le ravitaillement}{91}{paragraph.22.2.6.3}%
+\contentsline {paragraph}{\numberline {22.2.6.4}L’environnement}{92}{paragraph.22.2.6.4}%
+\contentsline {paragraph}{\numberline {22.2.6.5}Les Habitants des Oubrets}{92}{paragraph.22.2.6.5}%
+\contentsline {paragraph}{\numberline {22.2.6.6}Juin-juillet -- Fin de l’année scolaire}{93}{paragraph.22.2.6.6}%
+\contentsline {subparagraph}{\numberline {22.2.6.6.1}Juin}{93}{subparagraph.22.2.6.6.1}%
+\contentsline {subparagraph}{\numberline {22.2.6.6.2}Juillet}{93}{subparagraph.22.2.6.6.2}%
 \contentsline {subsection}{\numberline {22.3}La vallée du Béthuzon}{94}{subsection.22.3}%
 \contentsline {subsubsection}{\numberline {22.3.1}Les châteaux}{95}{subsubsection.22.3.1}%
 \contentsline {subsubsection}{\numberline {22.3.2}Les moulins et les fours à pain}{95}{subsubsection.22.3.2}%
